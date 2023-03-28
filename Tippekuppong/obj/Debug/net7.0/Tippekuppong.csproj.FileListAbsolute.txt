@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\bin\Debug\net7.0\Tippekuppong.exe
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\bin\Debug\net7.0\Tippekuppong.deps.json
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\bin\Debug\net7.0\Tippekuppong.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\bin\Debug\net7.0\Tippekuppong.dll
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\bin\Debug\net7.0\Tippekuppong.pdb
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.dll
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\refint\Tippekuppong.dll
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.pdb
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\Tippekuppong.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\tippe\Tippekuppong\obj\Debug\net7.0\ref\Tippekuppong.dll
